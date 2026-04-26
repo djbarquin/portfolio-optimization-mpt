@@ -35,6 +35,10 @@ four portfolios, meaning a simple index fund was more risk-efficient than any of
 the hand-built allocations. Makes sense in hindsight since manually picking 
 weights can't match what formal optimization does.
 
+![Efficient Frontier](efficient_frontier.png)
+
+![Monte Carlo Distributions](monte_carlo.png)
+
 ## Limitations
 
 - The 2010 to 2024 sample period was one of the strongest stretches for tech in 
